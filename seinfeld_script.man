@@ -1,0 +1,64 @@
+.\" Sample
+.TH Seinfeld 6 "January 30, 1991" "Version 1.0" "The Pony Remark"
+.SH NAME
+Seinfeld - A sample troff/groff formatted script
+.SH CREDITS
+.PP
+Written by: Larry David and Jerry Seinfeld
+.PP
+Directed by: Tom Cherones
+.PP
+Broadcasted: January 30, 1991
+.SH CHARACTERS
+.TP
+Jerry \fB\- Jerry Seinfeld\fR
+.TP
+Kramer \fB\- Michael Richards\fR
+.TP
+George \fB\- Jason Alexander\fR
+.TP
+Elaine \fB\- Julia Louis-Dreyfus\fR
+.TP
+Manya \fB\- Rozsika Halmos\fR
+.TP
+Morty Seinfeld \fB\- Barney Martin\fR
+.TP
+Uncle Leo \fB\- Len Lesser\fR
+.TP
+Helen Seinfeld \fB\- Liz Sheridan\fR
+
+.SH SYNOPSIS
+.TP
+Jerry's parents come to town for a 50th anniversary party. Jerry bets Kramer that he won't complete his plans to renovate his apartment with levels in a month. Jerry takes Elaine to the dinner and he makes an observation about children who have ponies, this remark offends the guest of honor. When she dies soon afterword, Jerry is afraid that his remark contributed to her death. He wonders if he should go to the funeral or to his championship softball game. Elaine wonders about the fate of their apartment when she hears the widower is moving to Arizona.
+.br
+.SH SCRIPT
+.PP
+.ce
+[SETTING: Night Club]
+.PP
+.ce
+\fBJerry\fR
+.TP
+My parents live in Florida now. They moved there last year. They didn't want to move to Floriday, but they're in their sixties, and that's the law. You know how it works. They got the leisure police. They pull up in front of the old people's house with a golf cart, jump out, "Let's go Pop, white belt, white pants, white hoes, get in the back. Drop the snow shovel right there, drop it!" I am not much for the family gathering. You know, you sit there, and the conversation's so boring. It's so dull. And you start to fantasize. You know, you think, what if I just got up and jumped out that window? What would it be like? Just crashed right through the glass.. You know. Come back in, there's broken glass, everybody's all upset. "No, I'm alright. I was just a little bored, there. No, I'm fine. I came back. I wanted to hear a little about that Hummel collection, Aunt Rose. Let's pick it up right there."
+.\"
+.PP
+.ce
+[SETTING: Jerry's aparment]
+.PP
+(Jerry's parents are in town. His father's watching TV. His mother is ironing his father's jackets)
+.PP
+.ce
+\fBHelen\fR (to Morty)
+.TP
+You have so many nice jackets. I don't know why you had to bring this jacket. Who wears a jacket like this? (He doesn't respond) What's rong with that nice gray one? You have beautiful clothes. They sit in your closet. Morty, you can't wear this!
+.br
+.PP
+etc...
+.\" The script continues...
+.\"
+.SH SEE ALSO
+.BR groff (1),
+.BR troff (1),
+.BR man (7)
+.\"
+
